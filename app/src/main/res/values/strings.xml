@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Facts and Stuff</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="joke">Joke</string>
+    <string name="description_of_fact">Description of Fact</string>
+    <string name="fact">Fact</string>
+    <string name="where_joke_goes">This is where the joke will go</string>
+</resources>

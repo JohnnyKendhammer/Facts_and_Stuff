@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.FactFragment">
+
+    <TextView
+        android:id="@+id/tv_fact"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/grunge_purple"
+        android:gravity="center"
+        android:padding="8dp"
+        android:text="@string/fact"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+</FrameLayout>
